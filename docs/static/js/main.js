@@ -522,7 +522,7 @@
                 },
                 L = function (e) {
                     var t = e.children;
-                    return r.a.createElement(a.Fragment, null, r.a.createElement("div", { className: "code-holder" }, t));
+                    return r.a.createElement(a.Fragment, null, r.a.createElement("code", { className: "code-holder" }, t));
                 },
                 D = function (e) {
                     var t = e.js;
