@@ -1,0 +1,19 @@
+{
+  "files": {
+    "style.css": "./static/css/style.css",
+    "main.js": "./static/js/main.js",
+    "runtime-main.js": "./static/js/runtime.js",
+    "static/css/support.css": "./static/css/support.css",
+    "static/js/support.js": "./static/js/support.js",
+    "index.html": "./index.html",
+    "precache-manifest.js": "./precache-manifest.js",
+    "service-worker.js": "./service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime.js",
+    "static/css/support.css",
+    "static/js/support.js",
+    "static/css/style.css",
+    "static/js/main.js"
+  ]
+}
