@@ -263,6 +263,10 @@ body {
     box-shadow: 3px 3px 3px rgba(0, 0, 0, .6)
 }
 
+:not(pre)>code[class*=language-], pre[class*=language-] {
+    background: #2d2d2d;
+}
+
 .code-holder {
     display: grid;
     grid-template-columns: repeat(2, minmax(400px, 1fr));
@@ -284,9 +288,6 @@ body {
 .code-holder #output-svg {
     grid-column-start: 1;
     grid-column-end: 4
-}
-:not(pre)>code[class*=language-], pre[class*=language-] {
-    background: #2d2d2d;
 }
 
 footer {
