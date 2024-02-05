@@ -285,6 +285,9 @@ body {
     grid-column-start: 1;
     grid-column-end: 4
 }
+:not(pre)>code[class*=language-], pre[class*=language-] {
+    background: #2d2d2d;
+}
 
 footer {
     display: flex;
