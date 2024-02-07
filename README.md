@@ -2,4 +2,4 @@
 # Handwritten SVG Generator
 Powerfull free AI tool that generates Handwritten SVG animation.
 ---
-**Visit:** [Our Webtool](https://rafid-009.github.io/handwritten-svg-generator/)
+**Visit:** [Our Webtool](https://rafidrd.github.io/handwritten-svg-generator/)
